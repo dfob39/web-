@@ -1,0 +1,1 @@
+python sqlmap.py -u
