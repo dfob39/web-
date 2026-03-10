@@ -1,0 +1,3 @@
+ 1.在cmd面板里用**mysql -u root -p 调用数据库 **
+**用echo %path%让系统读取一遍环境变量，是其生效**
+**2. SQL 对大小写不敏感：SELECT 与 select 是相同的  **
